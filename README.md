@@ -5,6 +5,10 @@ This is my test repo
 
 123-45-1234
 
+credit
+visa13 - 4123456789012
+visa16 - 4123456789012345
+
 192.168.0.1    #ip address
 
 AWS base64 encoded:
